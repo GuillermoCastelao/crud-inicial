@@ -1,0 +1,20 @@
+{
+  "name": "junta5",
+  "version": "1.0.0",
+  "description": "Crud Inicial",
+  "license": "ISC",
+  "author": "Guillermo Castelao",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
